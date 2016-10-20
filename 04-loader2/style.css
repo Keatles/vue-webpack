@@ -1,0 +1,14 @@
+
+body{
+    background-color: yellow;
+}
+#logo{
+    background-image: url(./image/logo.png);
+    height: 200px;
+    width: 200px;
+}
+#pic{
+    background-image: url(./image/5.jpg);
+    height: 200px;
+    width: 300px;
+}
