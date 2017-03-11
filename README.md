@@ -5,6 +5,8 @@
 ## Build Setup
 
 ``` bash
+# enter folder
+cd my
 # install dependencies
 npm install
 
