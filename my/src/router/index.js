@@ -1,5 +1,8 @@
 import Router from 'vue-router'
 const routes = [{
+  path: '/my/dist',
+  redirect: '/'
+}, {
   path: '/',
   component: resolve => require(['../views/index.vue'], resolve)
 }]
